@@ -91,3 +91,4 @@ projectGrid.addEventListener("mouseover", function () {
     projectGrid = "";},1000);
   projects.style.display = "grid";
 });
+
