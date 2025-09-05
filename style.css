@@ -78,13 +78,13 @@
  
   .skills-box {
     background-color: white;
-    margin: 3rem auto;
+    margin: 1rem auto;
     padding: 2rem;
     border-radius: 15px;
     width: 85%;
     height:36rem;
     text-align: center;
-    margin-top: 12rem;
+    margin-top: 3rem;
   }
   
   .skills-box h2 {
@@ -121,7 +121,7 @@
     border-radius: 15px;
     width:85%;
     height:36rem;
-    margin-top:12rem;
+    margin-top:3rem;
 
   }
   
@@ -145,7 +145,7 @@
 
   .projects-box {
     background-color: white;
-    margin: 12rem auto 3rem; /* Combined margin-top and bottom */
+    margin: 3rem auto 3rem; /* Combined margin-top and bottom */
     padding: 2rem;
     border-radius: 15px;
     width: 85%;
